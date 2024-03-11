@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Basic Calculator\Basic Calculator\bin\Debug\net8.0-windows\Basic Calculator.exe
+C:\Users\admin\source\repos\Basic Calculator\Basic Calculator\bin\Debug\net8.0-windows\Basic Calculator.deps.json
+C:\Users\admin\source\repos\Basic Calculator\Basic Calculator\bin\Debug\net8.0-windows\Basic Calculator.runtimeconfig.json
+C:\Users\admin\source\repos\Basic Calculator\Basic Calculator\bin\Debug\net8.0-windows\Basic Calculator.dll
+C:\Users\admin\source\repos\Basic Calculator\Basic Calculator\bin\Debug\net8.0-windows\Basic Calculator.pdb
+C:\Users\admin\source\repos\Basic Calculator\Basic Calculator\obj\Debug\net8.0-windows\Basic_Calculator.Form1.resources
+C:\Users\admin\source\repos\Basic Calculator\Basic Calculator\obj\Debug\net8.0-windows\Basic Calculator.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Basic Calculator\Basic Calculator\obj\Debug\net8.0-windows\Basic Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Basic Calculator\Basic Calculator\obj\Debug\net8.0-windows\Basic Calculator.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Basic Calculator\Basic Calculator\obj\Debug\net8.0-windows\Basic Calculator.AssemblyInfo.cs
+C:\Users\admin\source\repos\Basic Calculator\Basic Calculator\obj\Debug\net8.0-windows\Basic Calculator.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Basic Calculator\Basic Calculator\obj\Debug\net8.0-windows\Basic Calculator.sourcelink.json
+C:\Users\admin\source\repos\Basic Calculator\Basic Calculator\obj\Debug\net8.0-windows\Basic Calculator.dll
+C:\Users\admin\source\repos\Basic Calculator\Basic Calculator\obj\Debug\net8.0-windows\refint\Basic Calculator.dll
+C:\Users\admin\source\repos\Basic Calculator\Basic Calculator\obj\Debug\net8.0-windows\Basic Calculator.pdb
+C:\Users\admin\source\repos\Basic Calculator\Basic Calculator\obj\Debug\net8.0-windows\Basic Calculator.genruntimeconfig.cache
+C:\Users\admin\source\repos\Basic Calculator\Basic Calculator\obj\Debug\net8.0-windows\ref\Basic Calculator.dll
